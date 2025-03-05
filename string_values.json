@@ -1,0 +1,278 @@
+{
+  "DetailCard": {
+    "momentLabel": "Moment",
+    "askSingleLabel": "Ask",
+    "askPluralLabel": "Asks",
+    "offerSingleLabel": "Offer",
+    "offerPluralLabel": "Offers",
+    "tabContext": "Context",
+    "tabAsks": "Asks",
+    "tabOffers": "Offers",
+    "contextTitle": "Context",
+    "whatHeatherNeeds": "What Heather Needs",
+    "whatHeatherOffers": "What Heather Offers"
+  },
+  "Hero": {
+    "heading": "Heather Renze",
+    "subheading": "Championing innovation, technology leadership, and sustainable economic growth.",
+    "buttonExploreVision": "Explore the Vision",
+    "buttonCurrentInitiatives": "Current Initiatives"
+  },
+  "MissionSection": {
+    "tag": "MISSIONS:",
+    "sectionHeading": "Concrete Focus Areas",
+    "sectionDescription": "These missions represent the specific, actionable objectives that drive Heather's work toward broader innovation and sustainability goals.",
+    "movementFilterAll": "All Missions",
+    "movementFilter1": "Technology & Innovation",
+    "movementFilter2": "Workforce Development",
+    "movementFilter3": "Sustainability",
+    "missionLabel": "Mission",
+    "relatedMoments": "Related Moments →",
+    
+    "missions": [
+      {
+        "id": "1A",
+        "movement": 1,
+        "title": "Increase Access to Tech Careers",
+        "description": "Creating accessible pathways for individuals to enter high-growth technology fields such as AI, cybersecurity, and software development."
+      },
+      {
+        "id": "1B",
+        "movement": 1,
+        "title": "Support Entrepreneurship & Startups",
+        "description": "Providing mentorship and funding opportunities to help entrepreneurs scale their businesses successfully."
+      },
+      {
+        "id": "1C",
+        "movement": 1,
+        "title": "Build Inclusive Tech Ecosystems",
+        "description": "Addressing diversity gaps in technology fields through education, advocacy, and mentorship programs."
+      },
+      {
+        "id": "2A",
+        "movement": 2,
+        "title": "Develop Future-Ready Workforce Programs",
+        "description": "Creating and expanding education initiatives to prepare workers for jobs in AI, automation, and other emerging fields."
+      },
+      {
+        "id": "2B",
+        "movement": 2,
+        "title": "Support Veterans & Career Transitioners",
+        "description": "Helping veterans, career changers, and underrepresented groups transition into tech roles through training and networking."
+      },
+      {
+        "id": "2C",
+        "movement": 2,
+        "title": "Advocate for Remote & Hybrid Work Models",
+        "description": "Encouraging businesses to adopt flexible work strategies that increase productivity and employee well-being."
+      },
+      {
+        "id": "3A",
+        "movement": 3,
+        "title": "Drive Sustainable Tech Initiatives",
+        "description": "Promoting the ethical use of AI and green technology to create a more sustainable future."
+      },
+      {
+        "id": "3B",
+        "movement": 3,
+        "title": "Advance Smart City Technologies",
+        "description": "Using AI and IoT to improve infrastructure, energy efficiency, and urban planning."
+      },
+      {
+        "id": "3C",
+        "movement": 3,
+        "title": "Promote Ethical AI & Responsible Innovation",
+        "description": "Ensuring that technological advancements align with ethical and societal needs."
+      }
+    ]
+  },
+  "MomentSection": {
+    "tag": "MOMENTS:",
+    "sectionHeading": "Key Current Needs & Opportunities",
+    "sectionDescription": "These are Heather's immediate or near-term priorities—where she is actively seeking help or collaboration.",
+    "momentLabel": "Moment",
+    
+    "moments": [
+      {
+        "id": 1,
+        "title": "Expanding AI & Tech Training Programs",
+        "context": "With rapid advancements in AI and automation, there is an urgent need for scalable and accessible training programs. Heather is leading initiatives to connect industry leaders, education providers, and funding sources to fill this gap.",
+        "asks": [
+          {
+            "title": "Identify and Recruit AI & Tech Training Providers",
+            "description": "Heather needs partners (coding bootcamps, universities, workforce organizations) ready to deliver in-demand tech, AI, and cybersecurity training."
+          },
+          {
+            "title": "Evaluate & Develop Industry-Aligned Training Curricula",
+            "description": "She needs help assessing which tech training programs best align with employer demand—especially in AI, data analytics, cybersecurity, and emerging fields."
+          },
+          {
+            "title": "Secure Funding for AI & Cybersecurity Scholarships",
+            "description": "Heather is looking for philanthropic, government, and private-sector funding to provide tuition subsidies for underrepresented groups entering tech fields."
+          },
+          {
+            "title": "Connect with Industry & Foundation Partners",
+            "description": "She needs introductions to organizations that can underwrite pilot training programs to address the tech skills gap."
+          }
+        ],
+        "offers": [
+          {
+            "title": "Tech Scholarship & Mentorship Resources",
+            "description": "Heather can coordinate scholarship funding through partnerships and connect students with experienced tech mentors."
+          },
+          {
+            "title": "Corporate & Government Relationships",
+            "description": "She can leverage her networks to facilitate connections with hiring companies, policymakers, and educational institutions."
+          },
+          {
+            "title": "Physical & Digital Training Spaces",
+            "description": "Heather can help secure co-working and digital spaces for training initiatives through industry partnerships."
+          },
+          {
+            "title": "Promotion & Public Awareness",
+            "description": "She can utilize her thought leadership platforms to amplify awareness for new tech training programs and partnerships."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Funding & Resources for Startup Innovation Hubs",
+        "context": "Heather is advocating for expanded funding and support for early-stage entrepreneurs, focusing on AI, sustainability, and ethical tech innovation. Startups often need financial backing, mentorship, and access to infrastructure to scale effectively.",
+        "asks": [
+          {
+            "title": "Venture Capital & Government Grant Partnerships",
+            "description": "Heather is looking for funding sources that support AI-driven and impact-focused startups."
+          },
+          {
+            "title": "Corporate Accelerator & Incubator Support",
+            "description": "Seeking industry partnerships that can provide mentorship, co-working spaces, and startup-friendly business resources."
+          },
+          {
+            "title": "Developer & Investor Engagement",
+            "description": "Heather is looking for investors and developers who are passionate about supporting ethical AI and green tech startups."
+          },
+          {
+            "title": "Cross-Sector Stakeholder Coordination",
+            "description": "She needs help convening industry leaders, startup founders, and investors to align resources and create impactful funding opportunities."
+          }
+        ],
+        "offers": [
+          {
+            "title": "Guidance on Startup Funding & Pitching",
+            "description": "Heather can provide mentorship to startup founders on securing funding, business scaling, and investor relations."
+          },
+          {
+            "title": "Facilitation of Industry Networking",
+            "description": "She can connect entrepreneurs with VCs, tech leaders, and policymakers to help startups grow."
+          },
+          {
+            "title": "Access to AI & Ethical Tech Communities",
+            "description": "Heather can introduce startups to ethical AI initiatives and sustainability-focused innovation groups."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Engaging Cross-Sector & Federal Partnerships for AI & Sustainability",
+        "context": "There is a growing opportunity to leverage federal and corporate funding for AI, climate tech, and sustainability initiatives. Heather is actively working to connect industry leaders with large-scale funding and government-backed projects.",
+        "asks": [
+          {
+            "title": "Introduce Businesses to Government AI & Sustainability Initiatives",
+            "description": "She needs partners who can guide startups and established companies through government funding opportunities, including SBIR/STTR and energy innovation grants."
+          },
+          {
+            "title": "Demystify Federal & Corporate Procurement Processes",
+            "description": "Heather is seeking experts who can educate companies on how to successfully apply for large-scale contracts related to AI, sustainability, and tech innovation."
+          },
+          {
+            "title": "Attract Federal & Private Investment in Ethical AI",
+            "description": "Heather is looking for funding partners who can help scale ethical AI and responsible automation initiatives."
+          }
+        ],
+        "offers": [
+          {
+            "title": "Strategic Support in AI & Sustainability Storytelling",
+            "description": "Heather can highlight case studies and success stories that encourage broader adoption of AI and sustainability-focused funding."
+          },
+          {
+            "title": "Connections to Industry & Policy Leaders",
+            "description": "She can facilitate discussions between business leaders, policymakers, and investment groups to advance ethical AI and green tech projects."
+          },
+          {
+            "title": "Collaboration on Thought Leadership & Public Events",
+            "description": "Heather can support events and panels that educate and inspire collaboration in AI and sustainability."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Facilitating Cross-Industry Collaboration & AI Ethics Initiatives",
+        "context": "Heather sees immense value in fostering cross-industry discussions to ensure AI is used responsibly. She is leading efforts to create spaces where tech leaders, policymakers, and business owners can collaborate on ethical AI frameworks.",
+        "asks": [
+          {
+            "title": "Host & Support AI Ethics Workshops & Events",
+            "description": "Heather is looking for experts and facilitators to help run design sprints and collaborative discussions on AI governance and regulation."
+          },
+          {
+            "title": "Commitments from Stakeholders to Ethical AI Development",
+            "description": "She needs commitments from corporate, nonprofit, and government partners to implement AI ethics frameworks."
+          },
+          {
+            "title": "Technology & Administrative Support for AI Monitoring",
+            "description": "Heather is seeking digital tools and teams to help track ethical AI initiatives, ensuring accountability and progress."
+          }
+        ],
+        "offers": [
+          {
+            "title": "Global AI & Tech Policy Network Access",
+            "description": "Heather can connect stakeholders to key figures in AI regulation and policy."
+          },
+          {
+            "title": "Public Awareness & Media Coverage",
+            "description": "Through her platforms, Heather can amplify AI ethics discussions and promote responsible AI adoption."
+          },
+          {
+            "title": "Experience in AI Policy & Governance",
+            "description": "Heather brings her expertise in AI governance to align industry best practices with ethical principles."
+          }
+        ]
+      }
+    ]
+  },
+  "MovementSection": {
+    "tag": "MOVEMENTS:",
+    "sectionHeading": "High-Level Goals",
+    "sectionDescription": "Heather’s long-term vision for shaping the future of technology, workforce development, and sustainability.",
+    "movementLabel": "Movement",
+    
+    "movements": [
+      {
+        "id": 1,
+        "title": "Driving Innovation & Tech Leadership",
+        "description": "Fostering cutting-edge advancements in AI, automation, and entrepreneurship to fuel global innovation."
+      },
+      {
+        "id": 2,
+        "title": "Creating a Future-Ready Workforce",
+        "description": "Empowering individuals with the skills and knowledge needed to thrive in an evolving job market."
+      },
+      {
+        "id": 3,
+        "title": "Advancing Ethical & Sustainable Technology",
+        "description": "Ensuring that innovation aligns with sustainability and ethical responsibility."
+      }
+    ]
+  },
+  "IndexPage": {
+    "footerHeading": "Shaping the Future Through Innovation",
+    "footerParagraph": "Heather is committed to driving meaningful change through technology, education, and sustainability. Join the movement.",
+    "movementsLinkLabel": "MOVEMENTS:",
+    "missionsLinkLabel": "MISSIONS:",
+    "momentsLinkLabel": "MOMENTS:",
+    "copyright": "© {year} Vision by Heather Renze. All rights reserved.",
+    "title": "Heather Renze - Innovation & Leadership",
+    "description": "Driving ethical AI, workforce development, and sustainability.",
+    "author": "Heather Renze",
+    "ogImage": "/og-image.png"
+  }
+}

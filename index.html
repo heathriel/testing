@@ -3,10 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Saint Paul Vision - Mary Rick</title>
-    <meta name="description" content="United We Transform" />
-    <meta name="author" content="Collaboration.AI" />
-    <meta property="og:image" content="/og-image.png" />
+    <!-- We can use a small <script> to dynamically set title and meta tags from JSON. -->
+    <script type="module">
+      import config from '/string_values.json' assert { type: 'json' };
+
+      document.title = config.IndexPage.title;
+      document
+        .querySelector('meta[name="description"]')
+        ?.setAttribute('content', config.IndexPage.description);
+
+      document
+        .querySelector('meta[name="author"]')
+        ?.setAttribute('content', config.IndexPage.author);
+
+      // Set the OG image from JSON
+      document
+        .querySelector('meta[property="og:image"]')
+        ?.setAttribute('content', config.IndexPage.ogImage);
+    </script>
+
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta property="og:image" content="" />
   </head>
 
   <body>
